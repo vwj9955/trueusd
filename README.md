@@ -4,6 +4,8 @@
 
 野草云是国内的一家专业主机服务提供商，成立于2012年，已经稳定运营超过13年。商家专注于提供香港机房的云服务器、VPS以及独立服务器产品，线路包括优质BGP、精品BGP+CN2、国际BGP以及阿里云专线等多种选择 。野草云的香港VPS产品支持Intel和AMD两种CPU平台，其中AMD EPYC系列处理器性能相比Intel E5v4系列强劲50-100%，为用户提供更优异的计算性能 。
 
+<img width="2586" height="1103" alt="image" src="https://github.com/user-attachments/assets/9126ebcd-4512-42eb-885c-b356228b4760" />
+
 野草云的产品特色包括100% NVMe SSD存储、10Gbps DDoS防护、支持Linux和Windows操作系统，以及灵活的计费方式（可选择流量计费或带宽计费）。商家支持支付宝、PayPal等多种付款方式，为国内用户提供便利的购买体验 。
 
 ## 野草云官网地址
